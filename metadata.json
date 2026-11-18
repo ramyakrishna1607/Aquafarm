@@ -1,0 +1,8 @@
+{
+  "name": "AquaFarm",
+  "description": "Smart Fish Farm Management System for managing ponds, fish stock, feeding schedules, water quality monitoring, health records, harvests, finances, and staff operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
